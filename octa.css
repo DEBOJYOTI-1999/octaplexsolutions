@@ -1,0 +1,207 @@
+#pic1 {
+    
+    filter: grayscale(80%);
+}
+#cnt{
+ 
+    margin-bottom: 10%;
+    margin-left: 10%;
+    width: 50%;
+    padding: 10px;
+}
+.sec-container{
+    margin-top: 2%;
+}
+#ry{
+    background-position: center;
+    background-size: cover;
+    background-image: url("ryzen.jpg");
+}
+.overlay:hover{
+    filter: grayscale(80%);
+}
+.featurette-divider {
+     margin: 5rem 0; 
+}
+#team{
+     margin-left:10%;
+}
+.tick,.cp{
+        padding-right:20px;
+}
+#tc{
+    display: inline-block;
+    padding-bottom: 10px;
+}
+.fspace{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+.picshift{
+   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.modal-backdrop.in {
+    opacity: 0.9;
+}
+.cont-contact{
+
+   margin:auto;
+   padding-top:10%;
+   padding-left:10%;
+   padding-bottom:80%;
+}
+.vc{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%
+}
+
+/* PRICE CARD BODY */
+.card-body {
+  flex: 1 1 auto;
+  padding: 1rem 1rem;
+}
+.text-center {
+  text-align: center!important;
+}
+/* SIGNUP MODAL */
+
+.card {
+  width: 400px;
+  border: none
+}
+
+.form-control {
+  height: 45px;
+  border-radius: 10px
+}
+
+.form-control:focus {
+  box-shadow: none
+}
+
+.btn-signup {
+  height: 50px;
+  border-radius: 10px
+}
+/*COUNTER */
+
+.counter-section i {
+  display: block;
+  margin: 0 0 10px
+}
+
+.counter-section span.counter {
+  font-size: 40px;
+  color: #000;
+  line-height: 60px;
+  display: block;
+  font-family: "Oswald", sans-serif;
+  letter-spacing: 2px
+}
+
+.counter-title {
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-transform: uppercase
+}
+
+.counter-icon {
+  top: 25px;
+  position: relative
+}
+
+.counter-style2 .counter-title {
+  letter-spacing: 0.55px;
+  float: left
+}
+
+.counter-style2 span.counter {
+  letter-spacing: 0.55px;
+  float: left;
+  margin-right: 10px
+}
+
+.counter-style2 i {
+  float: right;
+  line-height: 26px;
+  margin: 0 10px 0 0
+}
+
+.counter-subheadline span {
+  float: right
+}
+
+.medium-icon {
+  font-size: 40px !important;
+  margin-bottom: 15px !important
+}
+
+.container-5 {
+  margin-top: 200px
+}
+
+/*CONTACT FORM*/
+.container-2 .map{
+    
+    float: left;
+    height: auto;
+    max-width: 100%;
+    width: auto\9; 
+  }
+  .container-2 .contact-form {
+    width: 40%;
+    margin-left:2%;
+    float: right;
+  }
+  .container-2 .contact-form .title {
+    font-size: 2.5em;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    color: #242424;
+    margin: 5% 8%;
+  }
+
+.container-2 .contact-form .subtitle {
+    font-size: 1.2em;
+    font-weight: 400;
+    margin: 0 4% 5% 8%;
+  }
+  .container-2 .contact-form input,
+  .container-2 .contact-form textarea {
+    width: 330px;
+    padding: 3%;
+    margin: 2% 8%;
+    color: #242424;
+    border: none;
+    border-bottom: 1px solid #B7B7B7;
+  }
+  .container-2 .contact-form input::placeholder,
+  .container-2 .contact-form textarea::placeholder {
+    color: #242424;
+  }
+  .container-2 .contact-form .btn-send {
+    background: #A383C9;
+    width: 180px;
+    height: 60px;
+    color: #FFFFFF;
+    font-weight: 700;
+    margin: 2% 8%;
+    border: none;
+  }
+  
+.container-3
+{
+  margin-top: 20%;
+}
